@@ -1,0 +1,21 @@
+# bloqueio de domínios — MXQ Pro 4K (hosts NÃO cobre subdomínios; prefira dnsmasq/AdGuard)
+0.0.0.0 tentvs.com
+0.0.0.0 trmaz.xyz
+0.0.0.0 tvsetting.com
+0.0.0.0 akrdinfo.cn
+0.0.0.0 zeasn.tv
+0.0.0.0 long.tv
+0.0.0.0 mytvos.com
+0.0.0.0 channel-sdk.tentvs.com
+0.0.0.0 helper-sdk.tentvs.com
+0.0.0.0 timestamp-sdk.tentvs.com
+0.0.0.0 upload-sdk.tentvs.com
+0.0.0.0 upload-sdkuninstall.tentvs.com
+0.0.0.0 ip.tentvs.com
+0.0.0.0 l-helper.tentvs.com
+0.0.0.0 channel.tentvs.com
+0.0.0.0 app.activity.trmaz.xyz
+0.0.0.0 ip.tvsetting.com
+0.0.0.0 launcher.akrdinfo.cn
+0.0.0.0 optimizerapi.long.tv
+0.0.0.0 upload.mytvos.com
